@@ -1,0 +1,192 @@
+1574301791760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefXFGBO"
+1574301794394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574301794395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574301794395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574301794396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574301801762	Marionette	INFO	Listening on port 45945
+1574301801790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/aluno/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+Exiting due to channel error.
+[Child 7525, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1574354880878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJrqric"
+1574354884962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574354884962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574354884963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574354884963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574354896139	Marionette	INFO	Listening on port 42971
+1574354896165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/aluno/cadastroTurmas/, line 40: ReferenceError: writeBarraSuperior is not defined
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/, line 40: ReferenceError: writeBarraSuperior is not defined
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/, line 40: ReferenceError: writeBarraSuperior is not defined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1574354974459	Marionette	INFO	Stopped listening on port 42971
+1574355021046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGQ65d9"
+1574355022696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355022697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355022697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355022697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355030746	Marionette	INFO	Listening on port 37795
+1574355030798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1574355100614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek004Xe"
+1574355102812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355102812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355102813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355102813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355113004	Marionette	INFO	Listening on port 41115
+1574355113058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+[Parent 4626, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1574355252783	Marionette	INFO	Stopped listening on port 41115
+1574355282969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLMqm95"
+1574355286105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355286105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355286105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355286106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355296589	Marionette	INFO	Listening on port 41873
+1574355296620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+[Parent 4867, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4867, Gecko_IOThread] WARNING: pipe error (107): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574355605444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Ar5QC"
+1574355608003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355608003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355608004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355608004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355619101	Marionette	INFO	Listening on port 39459
+1574355619187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1574355831757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfzXZI"
+1574355837749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355837749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355837749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355837750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355852078	Marionette	INFO	Listening on port 38495
+1574355852123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1574355945070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5S3Fhx"
+1574355951197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574355951198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574355951198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574355951198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574355970381	Marionette	INFO	Listening on port 44461
+1574355970879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+1574356013954	Marionette	INFO	Stopped listening on port 44461
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1574356260920	Marionette	INFO	Stopped listening on port 38495
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1574356264072	Marionette	INFO	Stopped listening on port 39459
+1574356292767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexQX5OY"
+1574356299747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574356299748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574356299748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574356299748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574356313520	Marionette	INFO	Listening on port 44971
+1574356313625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1574356399217	Marionette	INFO	Stopped listening on port 44971
+1574362437416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileajwZMQ"
+1574362448875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574362448875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574362448876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574362448876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574362465176	Marionette	INFO	Listening on port 36925
+1574362465854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/professor/cadastroTurmas/, line 40: ReferenceError: writeBarraSuperior is not defined
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/, line 40: ReferenceError: writeBarraSuperior is not defined
+1574362512907	Marionette	INFO	Stopped listening on port 36925
+1574372756231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileub4ZWz"
+1574372758961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574372758962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574372758962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574372758962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574372771668	Marionette	INFO	Listening on port 40673
+1574372772145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/aluno/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+[Parent 19047, Gecko_IOThread] WARNING: pipe error (86): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1574372879273	Marionette	INFO	Stopped listening on port 40673
+1574372933347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewC6OJ7"
+1574372934857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574372934858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574372934858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574372934858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574372942142	Marionette	INFO	Listening on port 33385
+1574372942188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/aluno/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+1574372964088	Marionette	INFO	Stopped listening on port 33385
+1574372994834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLIvrGO"
+1574372996589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574372996589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574372996589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574372996590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574373003275	Marionette	INFO	Listening on port 39303
+1574373003362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cagr.sistemas.ufsc.br/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.xhtml, line 246: unreachable code after return statement
+JavaScript error: https://cagr.sistemas.ufsc.br/modules/aluno/cadastroTurmas/, line 65: ReferenceError: writeBarraSuperior is not defined
+1574373214128	Marionette	INFO	Stopped listening on port 39303
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
